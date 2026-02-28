@@ -25,4 +25,3 @@ boxplot(iris[,1:4],
 species_colors<-c("satosa"='pink',
                   "versicolor"='lavender',
                   "virginica"='yellow')
-
